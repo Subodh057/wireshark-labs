@@ -1,0 +1,7 @@
+Observed ARP requests and replies used for IP to MAC address mapping.
+
+Understood that ARP spoofing involves sending fake ARP replies to associate attacker MAC with a legitimate IP address.
+
+This can redirect traffic through the attacker system, enabling man-in-the-middle attacks.
+
+Improper handling can disrupt network communication if packet forwarding is not enabled.
