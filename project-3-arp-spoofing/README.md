@@ -19,6 +19,12 @@ Captured ARP traffic to observe normal IP to MAC address mapping.
 Studied how ARP spoofing manipulates this mapping to redirect traffic.
 
 ---
+## MITRE ATT&CK Mapping
+
+* Tactic: Credential Access (TA0006)
+    * Technique: Adversary-in-the-Middle (T1557)
+* Tactic: Collection (TA0009)
+    * Technique: Network Sniffing (T1040)
 
 ## Observations
 
