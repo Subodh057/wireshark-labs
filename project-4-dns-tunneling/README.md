@@ -24,6 +24,12 @@ Captured DNS traffic from normal browsing and simulated suspicious DNS queries.
 dns
 
 ---
+## MITRE ATT&CK Mapping
+
+* Tactic: Command and Control (TA0011)
+    * Technique: Application Layer Protocol (T1071) (DNS-based communication)
+* Tactic: Exfiltration (TA0010)
+    * Technique: Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol (T1048)
 
 ## Observations
 
